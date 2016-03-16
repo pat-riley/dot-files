@@ -6,5 +6,4 @@ Configurations to get you up and running
 .atom
 .gitconfig
 
-
-## Exporting iTerm
+## Themes
